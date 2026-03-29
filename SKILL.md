@@ -3,6 +3,7 @@ name: aigroup-browser-skill
 description: Open pages with the real CN or global browser profile on spark and return the live page title plus final URL. Use this instead of web_fetch, search, canvas, or nodes when a task explicitly asks to open a site in the browser.
 metadata: { "openclaw": { "emoji": "🌐", "requires": { "bins": ["python3", "oc-cn", "oc-global", "oc-browser"] } } }
 homepage: https://github.com/jackdark425/aigroup-browser-skill
+license: MIT
 ---
 
 # AIGroup Browser Skill
