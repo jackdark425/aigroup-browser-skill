@@ -99,7 +99,7 @@ aigroup-browser-skill/
 
 ## Development notes
 
-The current production deployment on `spark` still keeps a compatibility copy named `aigroup-brower-skill`. This repository uses the corrected public slug `aigroup-browser-skill` so future Hub publication has a clean name.
+The production deployment on `spark` now also uses the corrected slug `aigroup-browser-skill`, so the runtime name and the public repository name are aligned.
 
 ## License
 
